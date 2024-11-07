@@ -24,6 +24,6 @@ https://github.com/LeandroRV/dev.git
 
 ## 📫 Contato
 
-- Email: [leandro_rv@outlook.com]
-- LinkedIn: [https://www.linkedin.com/in/leandro-ribeiro-vieira-88965a80/]
-- Website: [https://leandrorv.github.io/dev/]
+- Email: leandro_rv@outlook.com
+- LinkedIn: https://www.linkedin.com/in/leandro-ribeiro-vieira-88965a80/
+- Website: https://leandrorv.github.io/dev/
