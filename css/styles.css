@@ -255,7 +255,7 @@
 @media screen and (max-width: 600px) {
     :root {
         --base-font-size: 1.6rem;
-       /* --space: 2.8rem;*/
+       /* --son mobile devices below 600pxpace: 2.8rem;*/
     }
 }
 
@@ -3864,18 +3864,7 @@ input[type="button"].btn--primary:focus {
     }
 }
 
-@media screen and (max-width: 600px) {
-    .s-about__content-bottom .btn--download {
-        margin-top: var(--vspace-0_5);
-        width: 100%;
-    }
-}
 
-@media screen and (max-width: 360px) {
-    .s-about__content-bottom .btn--download svg {
-        display: none;
-    }
-}
 
 
 /* ===================================================================
