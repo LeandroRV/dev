@@ -255,7 +255,7 @@
 @media screen and (max-width: 600px) {
     :root {
         --base-font-size: 1.6rem;
-        --space: 2.8rem;
+       /* --space: 2.8rem;*/
     }
 }
 
@@ -3737,6 +3737,7 @@ input[type="button"].btn--primary:focus {
     .s-hero__content-social {
         font-size: 2.2rem;
     }
+
 }
 
 @media screen and (max-width: 500px) {
